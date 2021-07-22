@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495423274847",
+    "firebase_url": "https://bagrecha-bdp-default-rtdb.firebaseio.com",
+    "project_id": "bagrecha-bdp",
+    "storage_bucket": "bagrecha-bdp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495423274847:android:25f78c0fd8a973ede200ea",
+        "android_client_info": {
+          "package_name": "com.bagrechatech.bagrechabdc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495423274847-ob92uav0bsjc1l5rngktkb25ocbbkdr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bagrechatech.bagrechabdc",
+            "certificate_hash": "0c9590796de1788da778de12ace107a76676344a"
+          }
+        },
+        {
+          "client_id": "495423274847-bmt4kfalb966mso1shhuftfb23l9ai2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9pp-f0k6EaE85q6QTCmnyJsxl_A9bwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495423274847-bmt4kfalb966mso1shhuftfb23l9ai2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
